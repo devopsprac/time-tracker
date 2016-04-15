@@ -1,4 +1,4 @@
-# time-tracker
+# time-tracker appending text here
 Java (Maven) application for tracking time on the job
 
 ## Purpose
